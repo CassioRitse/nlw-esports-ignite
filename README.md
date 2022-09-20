@@ -7,10 +7,11 @@
 <br>
 Project (Server and Web Client) developed during the Next Level Week by Rocketseat.
 
-----
+<br>
+ 
 **WORK IN PROGRESS**: New screens and responsive screens, forms validation.  
 
-----
+---
 
  - [Description](#Description)
 <br>
