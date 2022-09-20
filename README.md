@@ -23,8 +23,9 @@ A platform that allows you to post ads to find a duo to play with.
 
 ## Stack/Tools
 
-*Back End:*![Landing](https://user-images.githubusercontent.com/52689135/191142888-f2ece6d7-5cb1-4a17-a05b-290813cdeeb3.png)
+![Landing](https://user-images.githubusercontent.com/52689135/191142888-f2ece6d7-5cb1-4a17-a05b-290813cdeeb3.png)
 
+*Back End:*
  - Node.js    
  - Prisma
 
