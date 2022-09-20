@@ -1,10 +1,9 @@
-<center>
-
-![alt](web/src/assets/logo-nlw.svg)
-
-</center>
+<p align="center">
+  <img src="web/src/assets/logo-nlw.svg" />
+</p>
 
 <br>
+
 Project (Server and Web Client) developed during the Next Level Week by Rocketseat.
 
 <br>
@@ -13,10 +12,8 @@ Project (Server and Web Client) developed during the Next Level Week by Rocketse
 
 ---
 
- - [Description](#Description)
-<br>
- - [Stack/Tools](#Stack/Tools)
-<br>
+- [Description](#Description)
+- [Stack/Tools](#Stack/Tools)
 - [Start](#Start)
 
 ## Description 
